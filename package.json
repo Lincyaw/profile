@@ -7,7 +7,9 @@
     "build": "hugo --gc --minify",
     "serve": "hugo server"
   },
-  "dependencies": {
-    "tailwindcss": "^3.3.3"
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "@tailwindcss/typography": "^0.5.19",
+    "tailwindcss": "^4.1.14"
   }
 }

@@ -46,8 +46,11 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "publication/ase23/ASE_grpc.pdf"
-url_code: "https://github.com/CUHK-SE-Group/protoc-gen-scip"
+links:
+  - type: pdf
+    url: "publication/ase23/ASE_grpc.pdf"
+  - type: code
+    url: "https://github.com/CUHK-SE-Group/protoc-gen-scip"
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -77,12 +80,6 @@ projects:
 slides: ""
 ---
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}} -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

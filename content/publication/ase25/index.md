@@ -91,12 +91,12 @@ projects:
 slides: ""
 ---
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!-- > [!NOTE]
+> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}} -->
+
+> [!NOTE]
+> Create your slides in Markdown - click the _Slides_ button to check out the example.
+ -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
