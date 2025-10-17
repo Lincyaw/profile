@@ -1,0 +1,13 @@
+{
+  "name": "hugo-blox-builder-academic-cv",
+  "version": "1.0.0",
+  "description": "academic cv starter",
+  "private": true,
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "serve": "hugo server"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}

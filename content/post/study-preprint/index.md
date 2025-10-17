@@ -1,5 +1,5 @@
 ---
-title: Our paper "An Empirical Study of SOTA RCA Models: From Oversimplified Benchmarks to Realistic Failures" has preprint available on Arxiv!
+title: Our paper An Empirical Study of SOTA RCA Models-From Oversimplified Benchmarks to Realistic Failures has preprint available on Arxiv!
 summary: " "
 date: 2025-10-08
 
